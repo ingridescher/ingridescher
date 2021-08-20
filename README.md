@@ -31,7 +31,7 @@
 <a href = "contatoingridescher@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-escher-correr-a546851b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   <img width=100px height=100px alt="Ingrid" src="https://cdn.discordapp.com/attachments/693614191663251466/878028333709942904/output_UEH5px.gif">
+   <img width=100px height=100px float=right alt="Ingrid" src="https://cdn.discordapp.com/attachments/693614191663251466/878028333709942904/output_UEH5px.gif">
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
