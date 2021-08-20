@@ -24,7 +24,7 @@
   ##
   
     
-  <div float=left> 
+  <div> 
   <a href="https://www.instagram.com/byingridescher/?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.facebook.com/ingrid.escher.10" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/ingridescher" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -35,11 +35,8 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-  
- 
- 
-</div>
-<div float=left>
+</div> 
+
+<div float=left width=20%>
  <img width=100px height=100px alt="Ingrid" src="https://cdn.discordapp.com/attachments/693614191663251466/878028333709942904/output_UEH5px.gif">
   </div>
-  ##
