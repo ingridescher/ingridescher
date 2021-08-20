@@ -37,6 +37,6 @@
 
 </div> 
 
-<div float=left width=20%>
+<div float=right width=20%>
  <img width=100px height=100px alt="Ingrid" src="https://cdn.discordapp.com/attachments/693614191663251466/878028333709942904/output_UEH5px.gif">
   </div>
