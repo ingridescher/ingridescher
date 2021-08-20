@@ -34,10 +34,11 @@
   
    
 
- 
+ <div float=left>
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  </div>
   
-  <img width=50px height=50px alt="Ingrid" float=left src="https://cdn.discordapp.com/attachments/693614191663251466/878028333709942904/output_UEH5px.gif">
+  <img width=100px height=100px alt="Ingrid" float=left src="https://cdn.discordapp.com/attachments/693614191663251466/878028333709942904/output_UEH5px.gif">
  
 </div>
   
