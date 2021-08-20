@@ -24,7 +24,7 @@
   ##
   
     
-  <div width=50% float=left> 
+  <div float=left> 
   <a href="https://www.instagram.com/byingridescher/?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.facebook.com/ingrid.escher.10" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/ingridescher" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -39,7 +39,7 @@
  
  
 </div>
-
- <img width=100px height=100px alt="Ingrid" float=left src="https://cdn.discordapp.com/attachments/693614191663251466/878028333709942904/output_UEH5px.gif">
-  
+<div float=left>
+ <img width=100px height=100px alt="Ingrid" src="https://cdn.discordapp.com/attachments/693614191663251466/878028333709942904/output_UEH5px.gif">
+  </div>
   ##
