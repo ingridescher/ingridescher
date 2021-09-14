@@ -17,7 +17,10 @@
   <img align="center" alt="Ingrid-W" height="30" width="120" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
   <img align="center" alt="Ingrid-HTML" height="30" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ingrid-mysql" height="30" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-     
+  <img align="center" alt="Ingrid-mysqlserver" height="30" width="120" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img align="center" alt="Ingrid-mysql" height="30" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Ingrid-powerpoint" height="30" width="120" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+    
 </div>
   </div>
   
