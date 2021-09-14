@@ -1,7 +1,7 @@
 ### Hello! My name is Ingrid! Welcome to my profile! 👋
 
 - 📝 I currently study informatics and computer networks.
-- 🌱 I'm currently learning front-end, back-end and and database.
+- 🌱 I'm currently learning algorithm, database, html and assembling computers.
 - ❤️ I love learning and knowing about technology.
 <div>
   <a href="https://github.com/ingridescher">
