@@ -1,8 +1,6 @@
 ### Hello! My name is Ingrid! Welcome to my profile! 👋
 
-- 📝 I currently study informatics and computer networks.
-- 🌱 I'm currently learning algorithm, database, html and assembling computers.
-- ❤️ I love learning and knowing about technology.
+
 <div>
   <a href="https://github.com/ingridescher">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingrid&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
