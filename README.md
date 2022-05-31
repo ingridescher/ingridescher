@@ -34,10 +34,6 @@
   
  
   
-    
-
-  
-  </div>
-  
   <img align="left" width=100px height=100px alt="Ingrid" float=right src="https://cdn.discordapp.com/attachments/693614191663251466/878028333709942904/output_UEH5px.gif">
-   
+  
+   </div>  
